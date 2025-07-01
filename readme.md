@@ -1,4 +1,4 @@
-# blur_project
+# BLUR
 
 Um utilitário Python para aplicar um filtro de **Blur Médio** em imagens, de forma paralela, usando **NumPy** e **Pillow**, com duas interfaces:
 
