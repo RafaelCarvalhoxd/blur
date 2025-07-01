@@ -22,6 +22,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""
-python scripts/run_blur.py entrada.jpg saida.jpg --kernel 5 --threads 8 --passes 3
-"""
