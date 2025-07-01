@@ -2,9 +2,7 @@
 
 Um utilitário Python para aplicar um filtro de **Blur Médio** em imagens, de forma paralela, usando **NumPy** e **Pillow**, com duas interfaces:
 
-1. **CLI** – linha de comando em `scripts/run_blur.py` ("""
-   python scripts/run_blur.py entrada.jpg saida.jpg --kernel 5 --threads 8 --passes 3
-   """)
+1. **CLI** – linha de comando em `scripts/run_blur.py` (py scripts/run_blur.py imagem-teste.jpg imagem-borrada.jpg --kernel 5 --threads 8 --passes 2 )
 2. **GUI** – interface gráfica Tkinter em `ui.py`
 
 ---
